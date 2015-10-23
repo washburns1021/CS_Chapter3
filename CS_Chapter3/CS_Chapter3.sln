@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckLowRate", "CheckLowRate\CheckLowRate.csproj", "{2F7FD764-610A-40F5-8A5D-0F1753531882}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckLowAndHighRate", "CheckLowAndHighRate\CheckLowAndHighRate.csproj", "{090F8151-FE70-4D88-8230-F18B912E03D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnsureValidPayRate", "EnsureValidPayRate\EnsureValidPayRate.csproj", "{D8286C02-6E10-432D-988B-BFB8A13D8763}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Furniture", "Furniture\Furniture.csproj", "{466342D0-638F-41CA-A72B-40C507F7C8A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Admission", "Admission\Admission.csproj", "{B04C8BF1-3679-46C0-984B-F4A8AB1ED3C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Payroll", "Payroll\Payroll.csproj", "{26FFE77D-FD7F-4E86-B007-BB88D851D020}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F7FD764-610A-40F5-8A5D-0F1753531882}.Debug|x86.ActiveCfg = Debug|x86
+		{2F7FD764-610A-40F5-8A5D-0F1753531882}.Debug|x86.Build.0 = Debug|x86
+		{2F7FD764-610A-40F5-8A5D-0F1753531882}.Release|x86.ActiveCfg = Release|x86
+		{2F7FD764-610A-40F5-8A5D-0F1753531882}.Release|x86.Build.0 = Release|x86
+		{090F8151-FE70-4D88-8230-F18B912E03D8}.Debug|x86.ActiveCfg = Debug|x86
+		{090F8151-FE70-4D88-8230-F18B912E03D8}.Debug|x86.Build.0 = Debug|x86
+		{090F8151-FE70-4D88-8230-F18B912E03D8}.Release|x86.ActiveCfg = Release|x86
+		{090F8151-FE70-4D88-8230-F18B912E03D8}.Release|x86.Build.0 = Release|x86
+		{D8286C02-6E10-432D-988B-BFB8A13D8763}.Debug|x86.ActiveCfg = Debug|x86
+		{D8286C02-6E10-432D-988B-BFB8A13D8763}.Debug|x86.Build.0 = Debug|x86
+		{D8286C02-6E10-432D-988B-BFB8A13D8763}.Release|x86.ActiveCfg = Release|x86
+		{D8286C02-6E10-432D-988B-BFB8A13D8763}.Release|x86.Build.0 = Release|x86
+		{466342D0-638F-41CA-A72B-40C507F7C8A4}.Debug|x86.ActiveCfg = Debug|x86
+		{466342D0-638F-41CA-A72B-40C507F7C8A4}.Debug|x86.Build.0 = Debug|x86
+		{466342D0-638F-41CA-A72B-40C507F7C8A4}.Release|x86.ActiveCfg = Release|x86
+		{466342D0-638F-41CA-A72B-40C507F7C8A4}.Release|x86.Build.0 = Release|x86
+		{B04C8BF1-3679-46C0-984B-F4A8AB1ED3C1}.Debug|x86.ActiveCfg = Debug|x86
+		{B04C8BF1-3679-46C0-984B-F4A8AB1ED3C1}.Debug|x86.Build.0 = Debug|x86
+		{B04C8BF1-3679-46C0-984B-F4A8AB1ED3C1}.Release|x86.ActiveCfg = Release|x86
+		{B04C8BF1-3679-46C0-984B-F4A8AB1ED3C1}.Release|x86.Build.0 = Release|x86
+		{26FFE77D-FD7F-4E86-B007-BB88D851D020}.Debug|x86.ActiveCfg = Debug|x86
+		{26FFE77D-FD7F-4E86-B007-BB88D851D020}.Debug|x86.Build.0 = Debug|x86
+		{26FFE77D-FD7F-4E86-B007-BB88D851D020}.Release|x86.ActiveCfg = Release|x86
+		{26FFE77D-FD7F-4E86-B007-BB88D851D020}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

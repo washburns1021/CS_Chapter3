@@ -9,6 +9,13 @@ namespace CheckLowAndHighRate
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Enter hourly pay:");
+            string line = Console.ReadLine();
+            double pay = Convert.ToDouble(line);
+            if (pay < 5.65 || pay > 49.99)
+            {
+                Console.WriteLine("ERROR");
+            } 
         }
     }
 }
